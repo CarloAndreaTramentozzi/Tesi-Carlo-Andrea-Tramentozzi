@@ -8,7 +8,7 @@ using object-oriented programming and dynamic programming techniques.
 ## Thesis information
 - Candidate: Carlo Andrea Tramentozzi
 - Degree: BSc in Computer Science (L-31)
-- University: [Università degli studi di Verona]
+- University: Università degli studi di Verona
 - Supervisors: Sara Migliorni, Alessandro Gnoatto, Andrea Mazzon
 - Language of the thesis: Italian
 

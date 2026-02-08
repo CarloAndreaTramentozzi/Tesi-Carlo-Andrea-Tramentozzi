@@ -40,7 +40,3 @@ This contribution includes:
 - Integration with existing finmath-lib abstractions
 - Production-quality Java code reviewed by domain experts
 
-## Keywords
-Quantitative Finance, Tree Models, Object-Oriented Design, Dynamic Programming,
-Java, Financial Engineering
-

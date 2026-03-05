@@ -27,16 +27,24 @@ hierarchies suitable for real-world quantitative finance libraries.
 - `Contributions/`: Description of external code contributions
 
 ## External code contribution
-Part of the work developed for this thesis resulted in a concrete contribution
-to the open-source quantitative finance library **finmath-lib**.
 
-A pull request adding new tree-based financial products and models was submitted
-and reviewed by the library maintainers:
+# Contribution to finmath-lib
 
-👉 https://github.com/finmath/finmath-lib/pull/102
+Part of the work developed during my Bachelor thesis and internship
+resulted in code integrated into the open-source quantitative finance
+library finmath-lib.
 
-This contribution includes:
-- Object-oriented design of tree products
-- Integration with existing finmath-lib abstractions
-- Production-quality Java code reviewed by domain experts
+Repository:
+https://github.com/finmath/finmath-lib
+
+Relevant module:
+https://github.com/finmath/finmath-lib/tree/main/src/main/java/net/finmath/tree
+
+The contribution includes several classes implementing tree-based
+financial products and models designed using object-oriented principles.
+
+Some of the classes developed during the thesis work include author
+annotations referencing this work.
+
+
 

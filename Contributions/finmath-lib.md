@@ -1,30 +1,44 @@
 # Contribution to finmath-lib
 
-During the development of this thesis, part of the proposed design and
-implementation was contributed to the open-source quantitative finance
-library **finmath-lib**.
+This contribution resulted from the development of the software
+components described in the thesis.
 
-## Pull Request
-- Repository: https://github.com/finmath/finmath-lib
-- Pull request: https://github.com/finmath/finmath-lib/pull/102
+Part of the work developed during this thesis and the associated internship
+was integrated into the open-source quantitative finance library
+finmath-lib.
+
+Repository:
+https://github.com/finmath/finmath-lib
+
+Relevant module:
+https://github.com/finmath/finmath-lib/tree/main/src/main/java/net/finmath/tree
 
 ## Description
-The contribution introduces new tree-based financial products and model
-extensions, designed following object-oriented principles.
 
-The code includes:
-- New product abstractions
-- Integration with existing tree models
-- Java classes authored by me (annotated with `@author`)
+The contribution introduces extensions to the tree-based modelling
+framework of the library, implementing financial products and model
+components designed using object-oriented principles.
 
-The pull request demonstrate production-level coding standards and domain-specific design
-choices.
+The work includes:
+
+- abstractions for tree-based financial products
+- integration with existing tree models in the library
+- several Java classes developed during the thesis work
+
+These components follow the design principles discussed in the thesis,
+focusing on modularity, extensibility and computational efficiency.
 
 ## Relation to the thesis
-The contribution directly reflects the concepts discussed in Chapters Non-Path-Dependet option 
-of the thesis, in particular:
-- Object-oriented design of financial products
-- Differences between Path-Dependent and Non-Path-dependent options
-- Dynamic programming and backward induction
-- Difference of space and complexity in this type of implementation
-- Efficient recombining tree structures through matrix and not object with pointers
+
+The contribution reflects several concepts discussed in the thesis,
+in particular in the chapters related to non-path-dependent options
+and tree-based financial models.
+
+Key aspects include:
+
+- object-oriented design of financial products
+- modelling differences between path-dependent and non-path-dependent options
+- dynamic programming and backward induction techniques
+- analysis of computational complexity and memory usage
+- efficient implementations of recombining trees using array-based
+  representations instead of pointer-based node structures
